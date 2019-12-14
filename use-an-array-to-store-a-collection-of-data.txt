@@ -1,0 +1,5 @@
+let yourArray = ['one', 2,'three' ,true,false,'test'];
+console.log(yourArray.length);
+    
+ 
+
